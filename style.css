@@ -1,5 +1,6 @@
 body {
   font-family: "Be Vietnam Pro", sans-serif;
+  margin: 0%;
 }
 h1 {
   font-size: 40px;
@@ -115,4 +116,9 @@ h1 {
 }
 .footer {
   padding-left: 0%;
+}
+.top-banner {
+  background-image: url(images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-image: image-set(12px);
 }
